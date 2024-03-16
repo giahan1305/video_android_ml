@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CaffeAI</string>
+
+    <string name="dummy_text">Dummy Text 2</string>
+    <string name="load_image">Load Video</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="output">Output:-</string>
+    <string name="result">Result Here</string>
+    <string name="click_to_search">Click on result to search video on google</string>
+    <string name="default_image">default Video</string>
+</resources>
